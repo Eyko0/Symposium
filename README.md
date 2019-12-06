@@ -6,7 +6,7 @@
 ## Thema:
 * AB2: Using marine macroalgae for carbon sequestration: a critical appraisal
 
-## INTRO
+## INTRO : WILLKOMMEN IM KLIMAWANDEL
 * Was hier los
 ![Greta Traurig|512x397](https://image.stern.de/8689598/16x9-940-529/2c054abb4706171b431cbfaba603a453/Dx/greta-thunberg.jpg)
 * Was tut sich
