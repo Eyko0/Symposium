@@ -1,7 +1,7 @@
 # Symposium
 # Symposium
 ## Präsentation
-## Steiger Wjack
+## Steiger Wijiiacki
 
 ## Thema: AB2: Using marine macroalgae for carbon sequestration: a critical appraisal
 
@@ -16,10 +16,20 @@
 # BLUE CARBON 
 ## Richtiges gutes Zeug!
 * MANGROVEN
+![groovis](https://previews.123rf.com/images/vilainecrevette/vilainecrevette1601/vilainecrevette160100058/51746464-die-mangroven-mit-baumwurzeln-%C3%BCber-und-unter-wasser-spaltung-von-wasserlinie-karibik.jpg"Ziemlich Groovy")
+* SEEGRAS
+![grassi](https://www.carbon-connect.ch/media/img/cms/mod_news/549/seegras-2_899x600.jpg"chillii")
 * ALGEN
-* TREIB-STOFF
+* Also ich persönlich find die Braunen ja leckerer als die Grünen.
+![algi](https://www.schrammek.de/beautynews/wp-content/uploads/2015/06/Fotolia_85133952_M.jpg"algi extreeme")
+## Ziemlich MAKRO die Algen
+
 # Moment bitte was?
-* ALGENREAKTOR
+* ?ALGENREAKTOR?
+* Skifahren auf Algen?
+* für die Kuh taugts eh!
+* TREIB? STOFF?
+
 # läuft
 ![want a hug?](https://i.pinimg.com/474x/ba/e9/54/bae9547927dbe48b0848c5363c8c3aa7.jpg)
 * ps: frühaufstehen ist wohl eher was für dich  :D
