@@ -1,7 +1,7 @@
 * Gedicht anfang:
 # Symposium
 # Symposium
-## Präsentation
+# Präsentation
 * Gedicht ende:
 ## Steiger Wilczek
 
@@ -9,11 +9,11 @@
 
 
 ## INTRO : WILLKOMMEN IM KLIMAWANDEL
-* Was hier los
+## Was hier los
 ![Greta Traurig|512x397](https://image.stern.de/8689598/16x9-940-529/2c054abb4706171b431cbfaba603a453/Dx/greta-thunberg.jpg)
-* Was tut sich
+## Was tut sich
 ![Greta Glücklich](https://peopledotcom.files.wordpress.com/2019/03/greta-thunberg.jpg?crop=0px%2C133px%2C1792px%2C941px&resize=1200%2C630)
-* Was kann man machen
+## Was kann man machen
 ![Greta Nachdenklich](https://www.bento.de/images/fad41ef2-5504-48f4-9b09-fc9ca76bea15_w910_h600_fpx44_fpy35.jpg)
 # BLUE CARBON 
 ## Richtiges gutes Zeug!
