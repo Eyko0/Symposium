@@ -16,12 +16,12 @@
 # BLUE CARBON 
 ## Richtiges gutes Zeug!
 * MANGROVEN
-![groovis](https://previews.123rf.com/images/vilainecrevette/vilainecrevette1601/vilainecrevette160100058/51746464-die-mangroven-mit-baumwurzeln-%C3%BCber-und-unter-wasser-spaltung-von-wasserlinie-karibik.jpg"Ziemlich Groovy")
+![groovis](https://previews.123rf.com/images/vilainecrevette/vilainecrevette1601/vilainecrevette160100058/51746464-die-mangroven-mit-baumwurzeln-%C3%BCber-und-unter-wasser-spaltung-von-wasserlinie-karibik.jpg "Ziemlich Groovy")
 * SEEGRAS
-![grassi](https://www.carbon-connect.ch/media/img/cms/mod_news/549/seegras-2_899x600.jpg"chillii")
+![grassi](https://www.carbon-connect.ch/media/img/cms/mod_news/549/seegras-2_899x600.jpg "chillii")
 * ALGEN
 * Also ich persönlich find die Braunen ja leckerer als die Grünen.
-![algi](https://www.schrammek.de/beautynews/wp-content/uploads/2015/06/Fotolia_85133952_M.jpg"algi extreeme")
+![algi](https://www.schrammek.de/beautynews/wp-content/uploads/2015/06/Fotolia_85133952_M.jpg "algi extreeme")
 ## Ziemlich MAKRO die Algen
 
 # Moment bitte was?
