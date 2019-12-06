@@ -3,8 +3,8 @@
 ## Präsentation
 ## Steiger Wjack
 
-## Thema:
-* AB2: Using marine macroalgae for carbon sequestration: a critical appraisal
+## Thema: AB2: Using marine macroalgae for carbon sequestration: a critical appraisal
+
 
 ## INTRO : WILLKOMMEN IM KLIMAWANDEL
 * Was hier los
