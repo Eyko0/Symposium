@@ -30,7 +30,15 @@
 # Algen
 * Braun
 * Rot 
-Geld
+* Gelb
+# Einfluss des Treibhauseffekts auf die Meerespflanzen
+## Mögliche Innovationen zur effektiven Nutzung
+* ALGENREAKTOR?
+* Ski aus Algen?
+* für die Kuh taugts eh!
+* Biofuel?
+## Zusammenfassung
+* Vor/Nachteile? Möglichkeiten? Problematiken? Kritik ? 
 ![Greta Traurig|512x397](https://image.stern.de/8689598/16x9-940-529/2c054abb4706171b431cbfaba603a453/Dx/greta-thunberg.jpg "HOW DARE YOU!")
 ## Was tut sich
 ![Greta Glücklich](https://peopledotcom.files.wordpress.com/2019/03/greta-thunberg.jpg?crop=0px%2C133px%2C1792px%2C941px&resize=1200%2C630 "Dank euch muss ich Freitags nicht zur Schule gehen!")
