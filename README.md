@@ -22,7 +22,7 @@
 # Meerespflanzen
 ## Mangroven
 ## Seegras
-## ~Makro~Algen
+## MakroAlgen
 * Braun
 * Rot 
 * Gelb
