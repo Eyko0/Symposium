@@ -1,5 +1,5 @@
 
-## Steiger Wilczek
+## Steiger / Wilczek
 
 ## Thema: AB2: Using marine macroalgae for carbon sequestration: a critical appraisal
 
@@ -10,11 +10,11 @@
 ## Kohlenstoffdioxid CO²  
 * Wo entsteht es.
 * Wozu braucht man es.
-* Beteilung am Treibhauseffekt
-* Drastischer Anstieg des CO² in der Atmosphäre 
+* Beteilung am Treibhauseffekt.
+* Drastischer Anstieg des CO² in der Atmosphäre.
 ## Bindung des CO² mithilfe von "Blue Carbon"
-* Blue Carbon ?
-* Photosynthese ?
+* Blue Carbon?
+* Photosynthese?
 * Meerespflanzen!
 ## Ökosystem des Ozeans
 ## Carbon cycle
@@ -22,7 +22,7 @@
 # Meerespflanzen
 ## Mangroven
 ## Seegras
-## Algen
+## ~Makro~Algen
 * Braun
 * Rot 
 * Gelb
@@ -30,7 +30,7 @@
 # Mögliche Innovationen zur effektiven Nutzung
 * ALGENREAKTOR?
 * Ski aus Algen?
-* für die Kuh taugts eh!
+* Tierfutter!
 * Biofuel?
 # Zusammenfassung
 * Vor/Nachteile? Möglichkeiten? Problematiken? Kritik ? 
