@@ -21,7 +21,16 @@
 * Blue Carbon ?
 * Photosynthese ?
 * Meerespflanzen!
-## 
+## Ökosystem des Ozeans
+# Carbon cycle
+![carbon cycle}(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Carbon_cycle-cute-diagram-fi.svg/1280px-Carbon_cycle-cute-diagram-fi.svg.png)
+# Meerespflanzen
+# Mangroven
+# Seegras
+# Algen
+* Braun
+* Rot 
+Geld
 ![Greta Traurig|512x397](https://image.stern.de/8689598/16x9-940-529/2c054abb4706171b431cbfaba603a453/Dx/greta-thunberg.jpg "HOW DARE YOU!")
 ## Was tut sich
 ![Greta Glücklich](https://peopledotcom.files.wordpress.com/2019/03/greta-thunberg.jpg?crop=0px%2C133px%2C1792px%2C941px&resize=1200%2C630 "Dank euch muss ich Freitags nicht zur Schule gehen!")
