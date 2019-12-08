@@ -5,7 +5,6 @@
 
 
 
-
 # Die Erde und der Klimawandel
 ## Der Treibhauseffekt
 ## Kohlenstoffdioxid CO²  
